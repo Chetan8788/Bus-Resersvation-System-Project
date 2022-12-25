@@ -78,6 +78,6 @@
 - [Email](cp02589@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/chetan-patil-901a31199/)
 # Contributor
-#### Mayuri Samanta
+#### Chetan Patil
 >[GitHub](https://github.com/Chetan8788)
 
