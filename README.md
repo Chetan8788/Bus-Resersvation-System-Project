@@ -41,12 +41,12 @@
 </br>
 *Booking table as linking between Customer and Bus*
 </br>
-![Er diagram](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/ProjectDetails/ER%20diagram/ERdiagram.png?raw=true)
+![Er diagram](https://https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/ER%20Diagram.jpeg?raw=true)
 
 ## **Administrator Login** 
 *Admin can login by using username (Admin) and password (1234)*
 </br>
-![Admin login](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/Adminlogin.png?raw=true)
+![Admin login](https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/Admin%20login.jpeg?raw=true)
 
 
 ## **Customer Login** 
@@ -54,22 +54,22 @@
 </br>
 *Customer can login with earlier provided username and password*
 </br>
-![Customer login](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/Customerlogin.png?raw=true)
+![Customer login](https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/Customer_login.jpeg?raw=true)
 
 ## **Back Functionality** 
 *User can go back to the previous option*
 </br>
-![Back functionality](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/BackFunctionality.png?raw=true)
+![Back functionality](https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/Functionality.jpeg?raw=true)
 
 ## **Exception Handling**
 *If user provides wrong input, the appropriate error message will appear*
 </br>
-![Exception Handling](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/Exceptional%20Handling.png?raw=true)
+![Exception Handling](https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/Exception%20Handling.jpeg?raw=true)
 
 ## **Book Ticket Functionality**
 *Customer can't book same day or previous day ticket*
 </br>
-![Book Ticket Functionality](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/bookTicket.png?raw=true)
+![Book Ticket Functionality](https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/Book_Ticket_Functionality.jpeg?raw=true)
 
 # Feedback
 > Valuable feedback will be appreciated.
