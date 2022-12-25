@@ -41,7 +41,7 @@
 </br>
 *Booking table as linking between Customer and Bus*
 </br>
-![Er diagram](https://https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/ER%20Diagram.jpeg?raw=true)
+![Er diagram](https://github.com/Chetan8788/Bus-Resersvation-System-Project/blob/main/Bus_Reservation_System/Images/ER%20Diagram.jpeg?raw=true)
 
 ## **Administrator Login** 
 *Admin can login by using username (Admin) and password (1234)*
